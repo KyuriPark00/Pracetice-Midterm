@@ -21,6 +21,4 @@ Chan Wing Lam Stephanie and Kyuri Park
 
 ## Liscences
 MIT
-
-
-conflict abc
+ 
